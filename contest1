@@ -1,0 +1,37 @@
+<!doctypehtml>
+
+<head>
+
+<title>Challenge Quiz!</title>
+<link href="primary.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body id="body">
+
+<h1>Ok, so everyone copy this code and create your own files. Email them to me at skproductions16@gmail.com. I will post them on the REPO, MAY THE BEST NERD WIN!</h1>
+<div>
+<form>
+  First Name:<input type="text" name="first"></input>
+	<br />
+	Last Name:<input type="text" name="last"></input> 
+	<br />
+	Your Email:<input type="text" name="last"></input>
+	<br />
+	Male<input type="radio" name="male"></input>
+	<br />
+	Female<input type="radio" name="male"></input>
+	<h3>Check all that apply!</h3>
+	I longboard:<input type="checkbox" name="longboard"></input>
+	<br />
+	I am in High School:<input type="checkbox" name="school"></input>
+	<br />
+	I have two siblings:<input type="checkbox" name="siblings"></input>
+	<br />
+	I own a lizard:<input type="checkbox" name="lizard"></input>
+</form>
+</div>
+<h1>Alright, make it look chill... Good Luck.</h1>
+</body>
+
+</html>
