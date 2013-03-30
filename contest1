@@ -12,7 +12,7 @@
 <h1>Ok, so everyone copy this code and create your own files. Email them to me at skproductions16@gmail.com. I will post them on the REPO, MAY THE BEST NERD WIN!</h1>
 <div>
 <form>
-  First Name:<input type="text" name="first"></input>
+	First Name:<input type="text" name="first"></input>
 	<br />
 	Last Name:<input type="text" name="last"></input> 
 	<br />
@@ -29,6 +29,9 @@
 	I have two siblings:<input type="checkbox" name="siblings"></input>
 	<br />
 	I own a lizard:<input type="checkbox" name="lizard"></input>
+	<br />
+	<br />
+	<button type="submit" name="submit" value="Submit">Submit</button>
 </form>
 </div>
 <h1>Alright, make it look chill... Good Luck.</h1>
